@@ -24,7 +24,7 @@ repositories:
 
 website: "https://www.runatlantis.io/"
 
-artwork: "https://landscape.cncf.io/logos/atlantis.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/atlantis"
 
 adopters:
   path: "https://github.com/runatlantis/atlantis/blob/main/ADOPTERS.md"
